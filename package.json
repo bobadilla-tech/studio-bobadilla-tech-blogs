@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "@portabletext/react": "^8.0.1",
-    "@sanity/client": "^7.20.0",
+    "@sanity/client": "^8.14.1",
     "@sanity/code-input": "^7.3.14",
     "@sanity/image-url": "^2.1.1",
     "@sanity/vision": "^5.31.2",
